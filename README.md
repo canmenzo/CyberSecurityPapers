@@ -1,4 +1,4 @@
-# Cyber Security Projects
+# Cyber Security Researches
 
 This repository includes projects and research made by Mehmet Can Ozmen in the field of Information Security and Organizational Information Security at Florida State University.
 
